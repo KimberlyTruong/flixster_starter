@@ -64,4 +64,3 @@ No open-source libraries were used.
 ### Shout out
 
 Yilika was super helpful when I ran into tons of issues with formatting my website!
-
